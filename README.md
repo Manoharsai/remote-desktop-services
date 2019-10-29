@@ -1,4 +1,4 @@
-# remote-desktop-services
+# Remote Desktop Services
 Blue Prism® is commonly installed and run on a virtualised infrastructure with virtual desktop images being used for Blue Prism Runtime Resources, and this remains the recommended deployment approach. However for users with specific IT infrastructure requirements, it may be desirable to deploy Blue Prism on a Remote Desktop Services (RDS) environment.
 
 ## About
